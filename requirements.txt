@@ -57,4 +57,3 @@ xlrd==1.2.0
 networkx==2.2.0
 webdriver-manager==1.7.0
 selenium==3.141.0
-bs4
